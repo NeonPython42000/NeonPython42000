@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NeonPython42000
 - 👀 I’m interested in coding for profit. 
-- 🌱 I’m currently learning AI/Machine learning.
-- 😄 Pronouns: Male
+- 🌱 I’m currently learning CS50.
+- 😄 Pronouns: He/Him/Hiss
 - ⚡ Fun fact: I love puppies!
 
 <!---
